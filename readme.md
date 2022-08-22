@@ -1,6 +1,8 @@
-#Práctica integradora
 
-##<h1>Objetivo</h1>
+
+# Práctica integradora
+
+<h1>Objetivo</h1>
 La empresa de rubro gastronómico Pimienta & Sal nos contrata para modificar su sitio
 corporativo, que actualmente posee información estática, a una versión dinámica, ya que
 en los próximos meses cambiará su carta y estará ofreciendo un menú estacionario.
@@ -18,7 +20,7 @@ de código, dicha porción debería ser un archivo parcial que después podamos 
 
 <ul>
 <li>
-● Transformar la sección del menú para mostrar el nombre del plato, la descripción
+Transformar la sección del menú para mostrar el nombre del plato, la descripción
 y el precio dinámicamente.
 
 </li>
@@ -30,11 +32,11 @@ y el precio dinámicamente.
 Debemos agregar la siguiente ruta en el sitio para que cada plato del menú de la home
 nos permita ver con más detalle el plato correspondiente.
 <ul>
-<li>● /detalle/id
+<li> /detalle/id
 La vista del detalle visualizará, según el id del menú, el nombre del plato, la descripción,
 </li>
 <li>
-● En caso de que el plato no posea una descripción detallada, debemos mostrar la
+En caso de que el plato no posea una descripción detallada, debemos mostrar la
 leyenda “Plato típico”.
 
 </li>
